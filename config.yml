@@ -1,4 +1,4 @@
-baseURL: "https://71tong.github.io/blogtest/"
+baseURL: "https://71tong.github.io/blogtest"
 title: PaperMod
 paginate: 5
 theme: hugo-PaperMod
